@@ -6,13 +6,15 @@ I am passionate about building modern web applications and always eager to learn
 ---
 
 ## 💡 About Me  
-- 🔭 I’m currently working on a **banking app with CRM functionalities** using **Angular & Firebase**.
-- 🌱 I’m always eager to **learn new concepts** and explore new technologies, currently diving into **backend development**.
-- 🏆 I enjoy **solving complex problems** and improving **user experiences** through intuitive interfaces and clean code.
-- 🎨 Passionate about **UI/UX**, **Material Design**, and writing **scalable, maintainable code**.
-- 🛠️ I believe in **continuous learning**, **innovation**, and **collaboration** as keys to growth.
+- 🔭 I’m currently working on a **banking app with CRM functionalities** using **Angular & Firebase**.  
+- 🌱 I’m always eager to **learn new concepts** and explore new technologies, currently diving into **backend development**.  
+- 🏆 I enjoy **solving complex problems** and improving **user experiences** through intuitive interfaces and clean code.  
+- 🎨 Passionate about **UI/UX**, **Material Design**, and writing **scalable, maintainable code**.  
+- 🛠️ I believe in **continuous learning**, **innovation**, and **collaboration** as keys to growth.  
 
-## 🌍 **My Learning Philosophy**  
+---
+
+## 🌍 My Learning Philosophy  
 > “The more I learn, the more I realize how much I don’t know.” – Albert Einstein  
 
 I enjoy diving deep into new frameworks, tools, and backend technologies. Currently, I'm focusing on **performance optimization**, **scalable architectures**, and **advanced Firebase functionalities**.
